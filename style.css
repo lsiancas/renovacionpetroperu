@@ -1,0 +1,58 @@
+/* CSS Document */
+/*Cuerpo de la Pagina Web*/
+.body{
+/*border-radius:1px;
+/*background-position: right;*/
+background:#FFF;
+/*border-right: 2px solid #009;
+border-top: 2px solid #009;
+border-left: 2px solid #009;
+border-bottom: 2px solid #009;
+font-family:Verdana, Geneva, sans-serif;
+font-size:10px;*/
+}
+
+.body_sis{
+border-radius:5px;
+/*background:url(imagenes/fondo.png);*
+/*background-repeat:no-repeat;*/
+/*background-position: right;*/
+background: #039;
+border-right: 1px solid #039;
+border-top: 1px solid #039;
+border-left: 1px solid #039;
+border-bottom: 1px solid #039;
+font-family:Verdana, Geneva, sans-serif;
+font-size:14px;
+color:#FFF;
+}
+
+.body_sistema{
+border-radius:5px;
+/*background:url(imagenes/fondo.png);*
+/*background-repeat:no-repeat;*/
+/*background-position: right;*/
+background: #FFF;
+border-right: 1px solid #039;
+border-top: 1px solid #039;
+border-left: 1px solid #039;
+border-bottom: 1px solid #039;
+font-family:Verdana, Geneva, sans-serif;
+font-size:14px;
+color:#039;
+}
+
+.boton{
+border-radius:5px;	
+border-right: 1px solid #366;
+border-top: 1px solid #366;
+border-left: 1px solid #366;
+border-bottom: 1px solid #366;
+text-align: center;
+height:40px;
+width:120px;
+font-family:Verdana, Geneva, sans-serif;
+font-size:12px;
+color:#FFF;
+background:#366;
+}
