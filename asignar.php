@@ -1,4 +1,5 @@
 <?php require_once('Connections/cnxrenovacion.php'); ?>
+
 <?php
 if (!function_exists("GetSQLValueString")) {
 function GetSQLValueString($theValue, $theType, $theDefinedValue = "", $theNotDefinedValue = "") 
