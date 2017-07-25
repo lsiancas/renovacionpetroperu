@@ -79,7 +79,7 @@ if (isset($_POST['txtusuario'])) {
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" type="text/css" href="style.css"/>
-<title>RENOVACION TECNOLOGICA PETROPERU 2017</title>
+<title>RENOVACION TECNOLOGICA IBM - PETROPERU 2017</title>
 </head>
 
 <body>
