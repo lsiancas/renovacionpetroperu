@@ -97,7 +97,7 @@ if (isset($_POST['txtusuario'])) {
     <form name="frmlogin" action="<?php echo $loginFormAction; ?>" method="POST">
     <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="body_sis">
       <tr>
-        <td width="57%" height="35" align="center" valign="middle"><strong>FORMULARIO DE INGRESO</strong></td>
+        <td width="57%" height="35" align="center" valign="middle"><strong>FORMULARIO DE INGRESO 2017</strong></td>
         <td width="43%" rowspan="6" align="center" valign="middle" class="leftHalf"><img src="images/login.png" width="128" height="128" /></td>
       </tr>
       <tr>
